@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #aed0ff;
+}
+
+#projects {
+  background-color: #aed0ff;
+}
+
+#about {
+  background-color: #e6f4f1;
+}
+
+#projects.h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+section {
+  padding-top: 5rem;
+}
